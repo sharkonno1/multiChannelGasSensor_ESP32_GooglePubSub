@@ -15,11 +15,11 @@
 // This file contains your configuration used to connect to Cloud IoT Core
 
 // Wifi newtork details.
-const char *ssid = "Hamster";
-const char *password = "12971111";
+const char *ssid = "yourwifi";
+const char *password = "yourpasswd";
 
 // Cloud iot details.
-const char *project_id = "smartclean33";
+const char *project_id = "yourprojectid";
 const char *location = "asia-east1";
 const char *registry_id = "air";
 const char *device_id = "esp32_05C1A0";
